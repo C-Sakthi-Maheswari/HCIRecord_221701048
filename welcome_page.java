@@ -4,10 +4,6 @@
  */
 package com.mycompany.hciporj;
 
-/**
- *
- * @author sheebasharon
- */
 public class welcome_page extends javax.swing.JFrame {
 
     /**
