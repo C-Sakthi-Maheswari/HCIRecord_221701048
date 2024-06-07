@@ -6,10 +6,6 @@ package com.mycompany.hciporj;
 
 import java.util.Arrays;
 
-/**
- *
- * @author sheebasharon
- */
 public class sort extends javax.swing.JFrame {
 
     /**
