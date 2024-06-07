@@ -3,10 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
 
-/**
- *
- * @author KAVIN
- */
+
 public class gradecalc extends javax.swing.JFrame {
 
     /**
